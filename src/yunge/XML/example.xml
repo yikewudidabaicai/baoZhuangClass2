@@ -1,0 +1,21 @@
+<!--xml文档结构-->
+<!--可扩展标记语言：即可自定义标签-->
+<!--书写格式与html相同-->
+<!--常用于配置文件的书写-->
+<students>
+    <student>
+        <name>张三</name>
+        <sex>男</sex>
+        <age>21</age>
+    </student>
+    <student>
+        <name>张三</name>
+        <sex>男</sex>
+        <age>21</age>
+    </student>
+    <student>
+        <name>张三</name>
+        <sex>男</sex>
+        <age>21</age>
+    </student>
+</students>
